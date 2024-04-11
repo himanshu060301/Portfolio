@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./Hero.module.css";
-import Image from '../../images/hero/heroImage.png'
+import Image from '../../images/hero/photo.jpg'
 
 export const Hero = () => {
   return (
@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a Full Stack Developer specializing in JavaScript, React.js, Node.js, Java, and Spring Boot. With a focus on problem-solving, I craft robust web applications, delivering seamless user experiences across the stack.
         </p>
         <div className={styles.buttonContainer}>
-          <a href="https://www.linkedin.com/in/himanshu-prajapati-80a058217/" className={styles.contactBtn}>
+          <a href="https://drive.google.com/file/d/1k7zID_a2Aw8S90aRm-pWhcvFfDotmIjh/view?usp=sharing" className={styles.contactBtn}>
             Resume
           </a>
           <a href="https://github.com/himanshu060301/" className={styles.contactBtn}>
