@@ -12,7 +12,7 @@ const projects=[
       "imageSrc": require("../images/projects/booking.jpg"),
       "description": "Developed a hotel reservation app with the MERN stack. The app utilizes technologies including the Context API and JWT.",
       "skills": ["MERN", "JWT", "Context API"],
-      "demo": "https://bookingapp-frontend.onrender.com/",
+      "demo": "https://booking-app-pu9m.onrender.com/",
       "source": "https://github.com/himanshu060301/Booking_Repo"
     },
     {
