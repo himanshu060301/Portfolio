@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a Full Stack Developer specializing in JavaScript, React.js, Node.js, Java, and Spring Boot. With a focus on problem-solving, I craft robust web applications, delivering seamless user experiences across the stack.
         </p>
         <div className={styles.buttonContainer}>
-          <a href="https://drive.google.com/file/d/1k7zID_a2Aw8S90aRm-pWhcvFfDotmIjh/view?usp=sharing" className={styles.contactBtn}>
+          <a href="https://drive.google.com/file/d/1hDad7kfEGQLEz8qkwehFhcP05LKZhvU6/view?usp=drive_link" className={styles.contactBtn}>
             Resume
           </a>
           <a href="https://github.com/himanshu060301/" className={styles.contactBtn}>

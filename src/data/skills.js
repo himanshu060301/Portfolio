@@ -35,7 +35,6 @@ const skills=[
     "title": "Spring Boot",
     "imageSrc": require("../images/skills/springboot-Photoroom.png-Photoroom.png")
   },
-  
   {
     "title": "MySQL",
     "imageSrc": require("../images/skills/Mysql_logo.png")
